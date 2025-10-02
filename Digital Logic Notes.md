@@ -71,3 +71,21 @@
 ### Binary Logic
 
 ![image-20250916143035647](./assets/image-20250916143035647.png)
+
+![image-20250930144034717](./assets/image-20250930144034717.png)
+
+![image-20250930144240685](./assets/image-20250930144240685.png)
+
+![image-20250930144534798](./assets/image-20250930144534798.png)
+
+### Boolean Algebra
+
+![image-20250930144552639](./assets/image-20250930144552639.png)
+
+![image-20250930144702973](./assets/image-20250930144702973.png)
+
+![image-20250930150913381](./assets/image-20250930150913381.png)
+
+We can also use truth table method to prove.
+
+![image-20250930153513830](./assets/image-20250930153513830.png)
